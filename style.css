@@ -1,0 +1,33 @@
+body{
+	text-align: center;
+	font-family: sans-serif;
+	margin-top: 30px;
+	background-color: #ffe6f2;
+	color: #333333;
+}
+
+img{
+	width: 400px;
+	border: solid black 3px;
+	border-radius: 10px;
+}
+
+#button{
+	background-color: white;
+	border-radius: 9px;
+	width: 10%;
+}
+
+#button:hover{
+	background-color: #ffccef;
+}
+
+.footer{
+	width: 100%;
+	background-color: white;
+	border: black 2px solid;
+	color: black;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+}
